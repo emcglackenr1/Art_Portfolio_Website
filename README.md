@@ -10,9 +10,10 @@
 A design of a portfolio website made as part of my CodeFirst Web Development course, using Cloudflare, Jquery and Bootstrap.
  </h3>
 
+<p>
 <b>Available to view at: https://emcglackenr1.github.io/Art-Portfolio-Website/<b>
  
-<p> I am currently in the process of rewriting the code to make it more accessible and responsive to other device sizes. </p>
+ I am currently in the process of rewriting the code to make it more accessible and responsive to other device sizes. </p>
 
 
 
@@ -42,7 +43,7 @@ A design of a portfolio website made as part of my CodeFirst Web Development cou
 </p>
  
  <p align="center">
-  <img src="(https://user-images.githubusercontent.com/64873698/126793900-c279e574-b408-4839-a333-a1c912f81579.JPG" width="400"  alt="Homepage Icon-Contact">
+  <img src="https://user-images.githubusercontent.com/64873698/126793900-c279e574-b408-4839-a333-a1c912f81579.JPG" width="400"  alt="Homepage Icon-Contact">
 </p>
 
 
@@ -56,11 +57,16 @@ The sections of the website are now indicated in the top left, with the text of 
 When hovered over, the link text becomes underlined and a brighter colour. This highlights it while also making it distinctive from the active tab.</p>
  
    <p align="center">
-  <img src="https://user-images.githubusercontent.com/64873698/126792415-e32f75c2-3c4f-47a4-93fc-a7882efcb386.JPG" width="800"  alt="Top Navigation Hover">
+  <img src="https://user-images.githubusercontent.com/64873698/126792415-e32f75c2-3c4f-47a4-93fc-a7882efcb386.JPG" width="800"  alt="Top Navigation">
 </p>
+ 
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/64873698/126795806-e7756d29-e4e8-4156-8a7e-023cdfe6c00a.JPG" width="800"  alt="Top Nav Cursor Hover">
+</p>
+ 
 
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/64873698/126792350-a544a8d8-1a83-4f9b-8f8c-ded6f2d4d315.JPG" width="800"  alt="Top Navigation Hover">
+  <img src="https://user-images.githubusercontent.com/64873698/126795803-149cc6df-cba5-4b50-82b3-1d7aa474228b.jpg" width="800"  alt="Top Nav Hover">
 </p>
  
  <p>
