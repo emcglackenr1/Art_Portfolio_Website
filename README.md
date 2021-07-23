@@ -1,6 +1,7 @@
  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64873698/126788817-828906a4-dc61-4a9c-b372-d27ada1af1f8.JPG" width="800"  alt="Homepage Icon-Work">
+   <img src="https://user-images.githubusercontent.com/64873698/126792057-bf7cc93f-f611-4d43-915d-73b70dfc71f7.JPG" width="400"  alt="Homepage">
+    <img src="https://user-images.githubusercontent.com/64873698/126788817-828906a4-dc61-4a9c-b372-d27ada1af1f8.JPG" width="800"  alt="Homepage Icon-Work">
 </p>
 
 
@@ -21,10 +22,12 @@ A design of a portfolio website made as part of my CodeFirst Web Development cou
 <p> The homepage design utilised a dark theme with bold coloured icons to navigate to the three primary sections of the site.
  This design also highlights the art-deco style logo I designed myself. </p>
  
- 
+  
 <p align="center">
-  <img src="" width="400"  alt="Homepage Icon-Work">
+   <img src="https://user-images.githubusercontent.com/64873698/126792057-bf7cc93f-f611-4d43-915d-73b70dfc71f7.JPG" width="400"  alt="Homepage">
 </p>
+
+
  
 <h2> Navigation </h2>
  
@@ -33,29 +36,34 @@ A design of a portfolio website made as part of my CodeFirst Web Development cou
  
  <p align="center">
   <img src="https://user-images.githubusercontent.com/64873698/126788814-898a8a1f-74b6-4659-b02f-fa85ffc7b143.JPG" width="400"  alt="Homepage Icon-About">
-</p>
+ </p>
  
  <p align="center">
   <img src="https://user-images.githubusercontent.com/64873698/126788817-828906a4-dc61-4a9c-b372-d27ada1af1f8.JPG" width="400"  alt="Homepage Icon-Work">
 </p>
  
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/64873698/126788815-1d79dd23-e052-408e-a666-fb8ec6709f7a.JPG" width="400"  alt="Homepage Icon-Contact">
-</p>
+  <img src="https://user-images.githubusercontent.com/64873698/126792225-e1c741c5-198a-4ef8-bac1-e298157a292b.JPG" width="400"  alt="Homepage Icon-Contact">
+</p>![TopNav Hover](https://user-images.githubusercontent.com/64873698/126792324-41accda2-8673-41ca-8b47-c091d4e4ee72.JPG)
+
 
 <p>
 Once the user has moved to the other pages of the website a navigation bar appears at the top of the screen to assist with usability. 
 The logo appears in the top right and when clicked leads back to the homepage. 
 The homepage can also be reached by clicking the clearly marked 'Home' tab. </p>
  
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/64873698/126792415-e32f75c2-3c4f-47a4-93fc-a7882efcb386.JPG" width="400"  alt="Top Navigation Hover">
+</p>
+ 
 <p>
 The sections of the website are now indicated in the top left, with the text of the currently active tab highlighted a bright white. 
 When hovered over, the link text becomes underlined and a brighter colour. This highlights it while also making it distinctive from the active tab.</p>
 
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/64873698/126788808-a6edc467-e211-4879-a5b2-414096406a53.JPG" width="400"  alt="Top Navigation Hover">
+  <img src="https://user-images.githubusercontent.com/64873698/126792350-a544a8d8-1a83-4f9b-8f8c-ded6f2d4d315.JPG" width="400"  alt="Top Navigation Hover">
 </p>
- 
+
  
  <p>
 The page are separated into two main sections using a grid. On the left is the name of the website section, with text utilising the same colour of the tiles on the homepage to assist with intuitive navigation and emphasise the distinctive sections and topics.
@@ -63,14 +71,19 @@ The circular frame for the photograph mirrors the logo in the top corner and the
 Similarly, the icons underneath the image are a similar style of tile to the homepage. They link to the contact form, my Github and my LinkedIn profile. Similar to previous links the icons become a bright white when hovered over. </p>
  
   <p align="center">
-  <img src="https://user-images.githubusercontent.com/64873698/126788807-3f0ae4d4-1855-42e9-a671-2cb519e854eb.JPG" width="400"  alt="Icon Hover">
+  <img src="https://user-images.githubusercontent.com/64873698/126792545-a934c38a-9762-46ad-9f46-48fd7c5ed263.JPG" width="400"  alt="Icon Pages">
 </p>
+ 
+   <p align="center">
+  <img src="https://user-images.githubusercontent.com/64873698/126792604-d8d458ea-de20-4329-89e3-8a269bcd22c6.JPG" width="400"  alt="Icon Hover">
+</p>
+
  
 
   <h2> About Page </h2>
  
    <p align="center">
-  <img src="https://user-images.githubusercontent.com/64873698/126788810-d3b23a4b-09c4-498d-97e5-ccb9dc3a2f5f.JPG" width="400"  alt="About Page">
+  <img src="https://user-images.githubusercontent.com/64873698/126792717-981cd136-4346-426a-a31b-114cb413aa74.JPG" width="400"  alt="About Page">
 </p>
 
 <p> The right-hand section of the grid is the content. For the sake of the website demonstration, I utilised placeholder ‘lorem ipsum’ text. </p>
