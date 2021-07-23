@@ -1,5 +1,7 @@
-![Homepage](https://user-images.githubusercontent.com/64873698/126788797-ce95a4f9-f6d5-41d0-92a0-ce6b3b1f7efc.JPG)
-![Homepage Icon-Work](https://user-images.githubusercontent.com/64873698/126788817-828906a4-dc61-4a9c-b372-d27ada1af1f8.JPG)
+ 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64873698/126788817-828906a4-dc61-4a9c-b372-d27ada1af1f8.JPG" width="400"  alt="Homepage Icon-Work">
+</p>
 
 
 <h1>Portfolio Website</h1>
