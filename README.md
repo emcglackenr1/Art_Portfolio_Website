@@ -19,6 +19,7 @@ A design of a portfolio website made as part of my CodeFirst Web Development cou
 
   <h2> Homepage </h2>
 
+![TopNav Cursor](https://user-images.githubusercontent.com/64873698/126796872-95147065-a8e2-46f6-884f-d624d02d96b5.jpg)
 <p> The homepage design utilised a dark theme with bold coloured icons to navigate to the three primary sections of the site.
  This design also highlights the art-deco style logo I designed myself. </p>
  
@@ -61,12 +62,11 @@ When hovered over, the link text becomes underlined and a brighter colour. This 
 </p>
  
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/64873698/126795806-e7756d29-e4e8-4156-8a7e-023cdfe6c00a.JPG" width="800"  alt="Top Nav Cursor Hover">
+  <img src="https://user-images.githubusercontent.com/64873698/126796879-7947900b-7487-473c-93a5-05d374070c5e.jpg" width="800"  alt="Top Nav Cursor">
 </p>
  
-
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/64873698/126795803-149cc6df-cba5-4b50-82b3-1d7aa474228b.jpg" width="800"  alt="Top Nav Hover">
+  <img src="https://user-images.githubusercontent.com/64873698/126796935-b5ed7003-953c-4359-bf71-625ed2806d89.JPG" width="800"  alt="Top Nav Hover">
 </p>
  
  <p>
@@ -76,9 +76,6 @@ Similarly, the icons underneath the image are a similar style of tile to the hom
  
   <p align="center">
   <img src="https://user-images.githubusercontent.com/64873698/126792545-a934c38a-9762-46ad-9f46-48fd7c5ed263.JPG" width="400"  alt="Icon Pages">
-</p>
- 
-   <p align="center">
   <img src="https://user-images.githubusercontent.com/64873698/126792604-d8d458ea-de20-4329-89e3-8a269bcd22c6.JPG" width="400"  alt="Icon Hover">
 </p>
 
@@ -120,9 +117,9 @@ Similarly, the icons underneath the image are a similar style of tile to the hom
 The envelope icon visible on the home page and under the circular images on other pages is now larger and no longer possible to click. This is so that if users have navigated to contact using this icon it has a clear reference.</p>
 
 
-<p>This section contains a contact form with a dropdown option for enquiry type. This would assist me with query organisation. </p>
+<p> This section contains a contact form with a dropdown option for enquiry type. This would assist me with query organisation. </p>
 
-       <p align="center">
+  <p align="center">
   <img src="https://user-images.githubusercontent.com/64873698/126788811-8303c768-2e1f-4597-921e-f047ae2a2c96.JPG" width="400"  alt="Form DropDown">
   </p>
 
