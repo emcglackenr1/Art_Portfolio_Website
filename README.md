@@ -35,13 +35,9 @@ A design of a portfolio website made as part of my CodeFirst Web Development cou
  
  <p align="center">
   <img src="https://user-images.githubusercontent.com/64873698/126797449-7e799267-fc0b-4770-b350-7aa8af381148.JPG" width="400"  alt="Homepage Icon-About">
- </p>
- 
- <p align="center">
+
   <img src="https://user-images.githubusercontent.com/64873698/126788817-828906a4-dc61-4a9c-b372-d27ada1af1f8.JPG" width="400"  alt="Homepage Icon-Work">
-</p>
- 
- <p align="center">
+
   <img src="https://user-images.githubusercontent.com/64873698/126793900-c279e574-b408-4839-a333-a1c912f81579.JPG" width="400"  alt="Homepage Icon-Contact">
 </p>
 
@@ -49,9 +45,10 @@ A design of a portfolio website made as part of my CodeFirst Web Development cou
 <p>
 Once the user has moved to the other pages of the website a navigation bar appears at the top of the screen to assist with usability. 
 The logo appears in the top right and when clicked leads back to the homepage. 
-The homepage can also be reached by clicking the clearly marked 'Home' tab. </p>
+The homepage can also be reached by clicking the clearly marked 'Home' tab. 
  
-<p>
+ <br>
+ 
 The sections of the website are now indicated in the top left, with the text of the currently active tab highlighted a bright white. 
 When hovered over, the link text becomes underlined and a brighter colour. This highlights it while also making it distinctive from the active tab.</p>
 
