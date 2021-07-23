@@ -1,6 +1,6 @@
 <h1>Portfolio Website</h1>
 <h3>
-A desktop/large screen only design of a portfolio website made as part of my CodeFirst Web Development course.
+A design of a portfolio website made as part of my CodeFirst Web Development course.
  </h3>
 
 <b>Available to view at: https://emcglackenr1.github.io/Art-Portfolio-Website/<b>
