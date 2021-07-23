@@ -14,7 +14,6 @@ A design of a portfolio website made as part of my CodeFirst Web Development cou
  
 <p> I am currently in the process of rewriting the code to make it more accessible and responsive to other device sizes. </p>
 
- 
 
 
   <h2> Homepage </h2>
@@ -24,7 +23,7 @@ A design of a portfolio website made as part of my CodeFirst Web Development cou
  
   
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/64873698/126792057-bf7cc93f-f611-4d43-915d-73b70dfc71f7.JPG" width="400"  alt="Homepage">
+   <img src="https://user-images.githubusercontent.com/64873698/126792057-bf7cc93f-f611-4d43-915d-73b70dfc71f7.JPG" width="500"  alt="Homepage">
 </p>
 
 
@@ -43,8 +42,8 @@ A design of a portfolio website made as part of my CodeFirst Web Development cou
 </p>
  
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/64873698/126792225-e1c741c5-198a-4ef8-bac1-e298157a292b.JPG" width="400"  alt="Homepage Icon-Contact">
-</p>![TopNav Hover](https://user-images.githubusercontent.com/64873698/126792324-41accda2-8673-41ca-8b47-c091d4e4ee72.JPG)
+  <img src="(https://user-images.githubusercontent.com/64873698/126793900-c279e574-b408-4839-a333-a1c912f81579.JPG" width="400"  alt="Homepage Icon-Contact">
+</p>
 
 
 <p>
@@ -52,18 +51,17 @@ Once the user has moved to the other pages of the website a navigation bar appea
 The logo appears in the top right and when clicked leads back to the homepage. 
 The homepage can also be reached by clicking the clearly marked 'Home' tab. </p>
  
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/64873698/126792415-e32f75c2-3c4f-47a4-93fc-a7882efcb386.JPG" width="400"  alt="Top Navigation Hover">
-</p>
- 
 <p>
 The sections of the website are now indicated in the top left, with the text of the currently active tab highlighted a bright white. 
 When hovered over, the link text becomes underlined and a brighter colour. This highlights it while also making it distinctive from the active tab.</p>
-
- <p align="center">
-  <img src="https://user-images.githubusercontent.com/64873698/126792350-a544a8d8-1a83-4f9b-8f8c-ded6f2d4d315.JPG" width="400"  alt="Top Navigation Hover">
+ 
+   <p align="center">
+  <img src="https://user-images.githubusercontent.com/64873698/126792415-e32f75c2-3c4f-47a4-93fc-a7882efcb386.JPG" width="800"  alt="Top Navigation Hover">
 </p>
 
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/64873698/126792350-a544a8d8-1a83-4f9b-8f8c-ded6f2d4d315.JPG" width="800"  alt="Top Navigation Hover">
+</p>
  
  <p>
 The page are separated into two main sections using a grid. On the left is the name of the website section, with text utilising the same colour of the tiles on the homepage to assist with intuitive navigation and emphasise the distinctive sections and topics.
