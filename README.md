@@ -32,7 +32,7 @@ A design of a portfolio website made as part of my CodeFirst Web Development cou
  
 
 <p> Hovering over the navigation icons cause the icon to change colour, increase in size and for a tile to appear around it to highlight it. </p>
- 
+
  <p align="center">
   <img src="https://user-images.githubusercontent.com/64873698/126797449-7e799267-fc0b-4770-b350-7aa8af381148.JPG" width="400"  alt="Homepage Icon-About">
 
