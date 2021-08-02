@@ -88,12 +88,17 @@ Similarly, the icons underneath the image are a similar style of tile to the hom
  
 <p>This section uses a carousel to allow the user to navigate between the different work areas. Movement between these pages is achieved using the arrows on the left and right side of the screen. The carousel moves from one work type to another after 10 seconds.</p>
  
- <p align="center">
+  <p align="center">
   <img src="https://user-images.githubusercontent.com/64873698/126788799-3999ef00-fe67-46a6-a752-05fe8082d08f.JPG" width="400"  alt="Work-Design">
+  </p>
+  <p align="center">
 
   <img src="https://user-images.githubusercontent.com/64873698/126788801-52148451-a912-47c1-baf5-c786c6811cdf.JPG" width="400"  alt="Work-Illustration">
+  </p>
+  <p align="center">
 
   <img src="https://user-images.githubusercontent.com/64873698/126788803-3a2661ef-f3aa-4007-828d-8e46a487baf9.JPG" width="400"  alt="Work-Photography">
+  </p>
   
   </p>
 
