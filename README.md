@@ -66,13 +66,13 @@ The page are separated into two main sections using a grid. On the left is the n
 The circular frame for the photograph mirrors the logo in the top corner and the homepage. 
 Similarly, the icons underneath the image are a similar style of tile to the homepage. They link to the contact form, my Github and my LinkedIn profile. Similar to previous links the icons become a bright white when hovered over. </p>
  
-  <p align="center">
  <h3> Unselected navigation tiles </h3>
+   <p align="center">
   <img src="https://user-images.githubusercontent.com/64873698/126792545-a934c38a-9762-46ad-9f46-48fd7c5ed263.JPG" width="300" alt="Icon Pages">
  </p>
-<p align="center">
  
  <h3> Selected navigation tiles </h3>
+  <p align="center">
   <img src="https://user-images.githubusercontent.com/64873698/126792604-d8d458ea-de20-4329-89e3-8a269bcd22c6.JPG" width="300" alt="Icon Hover">
 </p>
 
