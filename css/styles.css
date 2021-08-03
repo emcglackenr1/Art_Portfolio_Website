@@ -59,6 +59,7 @@ hr {
 
 .nav-link {
     font-size: large;
+    padding: 1%;
 }
 
 .nav-link:hover {
