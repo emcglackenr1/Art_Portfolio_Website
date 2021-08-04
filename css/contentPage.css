@@ -1,0 +1,58 @@
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+body {
+    display: flex;  
+    flex-direction: column;
+    padding-top: 56px;  
+    min-height: 100vh;  
+  }
+  
+  main {
+    flex: 1;  
+ }
+
+ #workHome img{
+    width: 100%;  /* fit the image within the div */
+    margin: 15px 0;
+  }
+  
+.circle-active {
+-moz-box-shadow: 0 0 0px 3px #fff, 0 0 0 4px #ccc, 0 4px 6px #333;
+-webkit-box-shadow: 0 0 0px 3px #fff, 0 0 0 4px #ccc, 0 4px 6px #333;
+box-shadow: 0 0 0px 3px #fff, 0 0 0 4px #ccc, 0 4px 6px #333;
+-moz-border-radius: 100px;
+-webkit-border-radius: 100px;
+border-radius: 100px;
+width: 200px;
+height: 200px;
+}
+
+.circle-inactive {
+filter: grayscale(.7);
+-moz-box-shadow: 0 0 0px 3px #fff, 0 0 0 4px #ccc, 0 4px 6px #333;
+-webkit-box-shadow: 0 0 0px 3px #fff, 0 0 0 4px #ccc, 0 4px 6px #333;
+box-shadow: 0 0 0px 3px #fff, 0 0 0 4px #ccc, 0 4px 6px #333;
+-moz-border-radius: 100px;
+-webkit-border-radius: 100px;
+border-radius: 100px;
+width: 200px;
+height: 200px;
+}
+
+
+  #carouselExampleIndicators img {
+    width: 100%;  
+    /* FANCY ADVANCED CSS - calc():
+           calculates the height of the full page (100vh)
+           minus the height of the navbar (56px)
+           minus the height of the second-navbar (50px)
+      allocates this height to the carousel images, so that the carousel, navbar, and second-navbar can all fit on the page 
+      (regardless of screen size)
+   */
+    height: calc(100vh - 56px - 50px);
+    object-fit: cover;  /* "object-fit" property has various options for fitting an image within a specified space (works because 
+    both the img width and height are specified) */
+  }
