@@ -17,7 +17,7 @@ body {
   min-height: 100vh;  /* i.e minimum width is 100% of the "viewport height"... i.e the full screen height */
 }
 
-.container {
+.container1 {
   padding-top: 60px;
   padding-bottom: 30px;
 }
@@ -35,22 +35,6 @@ hr {
     padding-right: 23px;
 }
 
-.padding-under
-{
-    padding-bottom: 23px;
-}
-
-.padding-under-and-over
-{
-    padding-top: 5px;
-    padding-bottom: 23px;
-}
-
-.padding-under-and-over-small
-{
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
 
 
 
@@ -66,13 +50,6 @@ hr {
     
 
 
-.padding-RnL
-{
-    padding-right: 23px;
-}
-
-
-
 .nav-link {
     font-size: large;
 }
@@ -83,7 +60,7 @@ hr {
 
 
 
-main{
+main {
     grid-area: main;
     background-color: #101214;
     width: 100%;  /* fit the image within the div */
@@ -241,35 +218,6 @@ h2 {
 
 
 
-/* media queres */
-
-@media(max-width:780px){
-
-    .grid-2{
-
-        grid-template-columns: 1fr;
-
-    }
-
-    .section-1{
-
-        padding:0;
-
-        padding-top: 5rem;
-
-    }
-
-    .section-2{
-
-        padding: 0;
-
-        padding-left: 1.5rem;
-
-        padding-top: 2rem;
-
-    }
-
-}
 
 aside1{
     grid-area: aside1;
@@ -386,3 +334,34 @@ footer a {
   .icon-work2:hover {
     color:  #69287c;
   }
+
+
+/* media queres */
+
+@media(max-width:780px){
+
+    .grid-2{
+
+        grid-template-columns: 1fr;
+
+    }
+
+    .section-1{
+
+        padding:0;
+
+        padding-top: 5rem;
+
+    }
+
+    .section-2{
+
+        padding: 0;
+
+        padding-left: 1.5rem;
+
+        padding-top: 2rem;
+
+    }
+
+}
