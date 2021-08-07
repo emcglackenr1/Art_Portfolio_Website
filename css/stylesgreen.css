@@ -99,6 +99,10 @@ main{
 
 }
 
+form 
+{ width: fit-content;
+}
+
 body{
     margin: 0;
     padding: 0;
@@ -171,8 +175,8 @@ h2 {
 .section-2{
 
     padding-top: 8vh;
-    width: 70%;
-    padding-left: 5vh;
+    width: 100%;
+    padding-left: 10%;
 
 }
 
@@ -377,18 +381,21 @@ footer a {
 
     .section-1{
 
-        padding:0;
-
+        padding-right:0;
+        padding-left:0;
+        padding-bottom:0; 
         padding-top: 5rem;
 
     }
 
     .section-2{
+        padding-right:0;
+        padding-left:0;
+        padding-bottom:0; 
+        padding-top: 5rem;
+        width: 100%;
+        display: inline-block;
 
-        padding: 0
-Position: justify-content;
-
-        padding-top: 2rem;
 
     }
 }
