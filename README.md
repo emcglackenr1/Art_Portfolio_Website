@@ -14,7 +14,7 @@ A design of a portfolio website made as part of my CodeFirst Web Development cou
   
  It is a <u>work in progress and many pages are not currently accessible or responsive for mobile devices.</u> 
  
-<b>Available to view at: https://emcglackenr1.github.io/Art-Portfolio-Website/<b>
+<b>Available to view at: https://emcglackenr1.github.io/Art_Portfolio_Website/<b>
 
  </p>
 
