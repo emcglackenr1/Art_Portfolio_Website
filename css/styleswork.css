@@ -60,7 +60,7 @@ hr {
     border-radius: 25px;
     border:#69287c;
     border-radius: 15px;
-    border-style: solid white;
+    border-style: solid;
     margin-bottom: black;
      */
     
@@ -110,7 +110,7 @@ body{
 
 
 
-h1, h4 .white{
+h1, h4, .white{
     color: #fff;
 }
 
