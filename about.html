@@ -21,47 +21,33 @@
     <!-- "fixed-top" bootstrap class to fix the nav bar to the top of page.
          BUT, remember to add enough padding to the top of the <body> -->
 
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-       <span class="navbar-toggler-icon"></span>
-      </button>
-
-
   
-      <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+  <a class="navbar-brand" href="./index.html">
+    <img src="./images/Logo-Square.png" class="logo2" alt="Logo">
+  </a>
 
-      <a class="navbar-brand" href="./index.html">
-        <section class = "gap loadanimation">
-          <img src="./images/Logo-Square.png" class="logo2">
-          </section>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarRight" aria-controls="navbarRight" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
 
-        </a>
-
-      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-        <a class="navbar-brand" href="./index.html"></a>
-        <ul class="navbar-nav ml-auto">
-          <div class="padding-left">
-                  <li class="nav-item mx2">
-                        <a class="nav-link" href="./index.html">Home</a>
-                  </li>
-                </div>
-          <div class="padding-left">
-                  <li class="nav-item mx2">
-                        <a class="nav-link active" href="./about.html">About</a>
-                  </li>
-                </div>
-          <div class="padding-left">
-                  <li class="nav-item mx2">
-                        <a class="nav-link" href="./work.html">Work</a>
-                  </li>
-                </div>
-          <div class="padding-left">
-                  <li class="nav-item mx2">
-                        <a class="nav-link" href="./contact.html">Contact</a>
-                  </li>
-                </div>
-        </ul>
-      </div>
-    </nav>
+  <div class="collapse navbar-collapse" id="navbarRight">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item mx-3">
+        <a class="nav-link" href="./index.html">Home</a>
+      </li>
+      <li class="nav-item mx-3">
+        <a class="nav-link active" href="./about.html">About</a>
+      </li>
+      <li class="nav-item mx-3">
+        <a class="nav-link" href="./work.html">Work</a>
+      </li>
+      <li class="nav-item mx-3">
+        <a class="nav-link" href="./contact.html">Contact</a>
+      </li>
+    </ul>
+  </div>
+</nav>
     <!-- ==== END NAV BAR ===== -->
 
     <main>
