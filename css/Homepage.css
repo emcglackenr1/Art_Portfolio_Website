@@ -205,11 +205,13 @@ img {
 
 .icon-work {
   color: #69287c;
+  padding: 10%; 
 }
 
 .icon-work:hover {
   background:#69287c;
 }
+
 
 
 
