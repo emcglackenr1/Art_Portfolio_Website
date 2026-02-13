@@ -12,9 +12,8 @@ A design of a portfolio website made as part of my CodeFirst Web Development cou
 
 <p>
   
- It is a work in progress and many pages are not as accessible or responsive as they could be. 
+Since it was created in 2020, Bootstrap features have been updated. I have also moved away from this style of design with nested divs. The code itself needs a lot of updating, but the visual design of how it appeared is shown below.
  
-<b>Available to view at: https://emcglackenr1.github.io/Art_Portfolio_Website/<b>
 
  </p>
 
